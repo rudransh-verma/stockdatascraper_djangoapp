@@ -1,0 +1,1 @@
+# stockdatascraper_djangoapp

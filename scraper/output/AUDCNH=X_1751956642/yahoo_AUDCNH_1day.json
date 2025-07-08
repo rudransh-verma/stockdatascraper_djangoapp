@@ -1,0 +1,15 @@
+[
+  {
+    "url": "https://finance.yahoo.com/quote/AUDCNH=X/history/",
+    "data": [
+      {
+        "date": "2025-07-08",
+        "open": 4.654699802398682,
+        "high": 4.690899848937988,
+        "low": 4.654699802398682,
+        "close": 4.6880998611450195,
+        "volume": 0
+      }
+    ]
+  }
+]

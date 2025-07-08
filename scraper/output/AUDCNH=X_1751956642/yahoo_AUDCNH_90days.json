@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://finance.yahoo.com/quote/AUDCNH=X/history/",
+    "data": {
+      "timestamp_utc": 1751846400,
+      "date_utc": "2025-07-07",
+      "open": 4.654699802398682,
+      "high": 4.690899848937988,
+      "low": 4.654699802398682,
+      "close": 4.6880998611450195,
+      "volume": 0
+    }
+  }
+]
